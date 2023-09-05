@@ -53,7 +53,7 @@ This project relies on the following Python libraries and tools:
 - BeautifulSoup
 - Selenium
 - NLTK (Natural Language Toolkit)
-- ![Other](https://github.com/rishabh11336/Blackcoffer-Data-Extraction-and-NLP/blob/main/Blackcoffer%20Internshala%20Test%20Assignment/requirements.txt)
+- ![Other](https://github.com/rishabh11336/Blackcoffer-Data-Extraction-and-NLP/blob/main/requirements.txt)
 
 Install the required dependencies using the following command:
 
