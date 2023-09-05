@@ -80,4 +80,4 @@ If you'd like to contribute to this project, feel free to submit pull requests o
 
 ## License
 
-[Specify the license for your project here.]
+This project is licensed under the [MIT License](LICENSE).
