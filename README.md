@@ -18,7 +18,7 @@ Welcome to the Text Data Extraction and Analysis Project! This project is aimed 
 
 ## Data Extraction
 
-In this project, we use Python programming along with web scraping libraries such as BeautifulSoup and Selenium to extract text data from given URLs. Specifically, we extract the article title and article text while excluding any website headers, footers, or other irrelevant content. The extracted data is saved in text files with unique names based on the URL_ID.
+In this project, we use Python programming along with web scraping libraries such as BeautifulSoup and requests to extract text data from given URLs. Specifically, we extract the article title and article text while excluding any website headers, footers, or other irrelevant content. The extracted data is saved in text files with unique names based on the URL_ID.
 
 ## Data Analysis
 
@@ -44,14 +44,13 @@ To get started with this project, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Install the required dependencies listed in the [Dependencies](#dependencies) section.
-3. Run the Python program to extract data and perform analysis as per the provided instructions.
+3. Run the Python program or notebook file to extract data and perform analysis.
 
 ## Dependencies
 
 This project relies on the following Python libraries and tools:
 
 - BeautifulSoup
-- Selenium
 - NLTK (Natural Language Toolkit)
 - ![Other](https://github.com/rishabh11336/Blackcoffer-Data-Extraction-and-NLP/blob/main/requirements.txt)
 
